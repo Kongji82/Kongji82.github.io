@@ -169,15 +169,17 @@ privacy-policy:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-# meta_common_description: &meta_info $site_brand is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
+#meta_common_description: &meta_info 저는 백엔드 분야에 관심을 가지고 있고 멋진 개발자를 목표로 공부하고 있습니다.
+                                    
 
 # Home화면 헤더
 auto_content:
   title: Sample post (auto generated)
-  greeting: Hello!
-  text: 테스트입니다.
+  greeting: 👋안녕하세요!
+  text: 저는 백엔드 분야에 관심을 가지고 있고 백엔드 개발자를 목표로 공부하고 있습니다.
+
   more_info: Learn More.
-  auto_generated_text: This is an auto generated sample content for display in the selected language.
+  auto_generated_text: 제주대학교 컴퓨터공학전공 18학번 공지혁입니다.
 
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
