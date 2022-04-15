@@ -27,7 +27,7 @@ not_found:
 no_translation_tooltip: No Translation
 
 navigation:
-  brand_sub_text: Jekyll theme
+  brand_sub_text: 컴퓨터공학전공 18학번
   contact_header: Contact
 
 color_scheme_switch_tooltip: Color scheme
@@ -144,7 +144,8 @@ archives:
 about:
   title: About
   button_name: About
-  sub_title: "Awesome jekyll theme"
+  sub_title: "제주대학교
+              컴퓨터공학전공 18학번"
   email_title: email
 
 # for links layout
@@ -168,12 +169,13 @@ privacy-policy:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: &meta_info $site_brand is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
+# meta_common_description: &meta_info $site_brand is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
 
+# Home화면 헤더
 auto_content:
   title: Sample post (auto generated)
   greeting: Hello!
-  text: *meta_info
+  text: 테스트입니다.
   more_info: Learn More.
   auto_generated_text: This is an auto generated sample content for display in the selected language.
 

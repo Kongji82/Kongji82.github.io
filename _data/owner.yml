@@ -5,7 +5,7 @@
 brand: "공지혁"
 
 # used for seo meta post author (if it's not defined in post)
-name: "공지혁"
+name: "Kong"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -30,7 +30,7 @@ creative_commons:
 # comment to remove any contact item
 contacts:
   - github: "Kongji82"
-  #- email: ""
+  - email: "kongji4092@gmail.com"
   #- linkedin: ""
   #- twitter: ""
   #- instagram: ""
