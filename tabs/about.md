@@ -55,7 +55,7 @@ img: ":kong.jpg"
 - 이름 : 공지혁
 - 생년월일 : 1999.11.23
 - 학력 : 제주대학교 소프트웨어학부 컴퓨터공학전공
-- 관심분야 : BackEnd Develop
+- 관심분야 : Backend Develop
 
 ### **👥Contact 연락**
 
@@ -96,16 +96,3 @@ img: ":kong.jpg"
 - 2019-02-07 ~ 2019-02-27 2018 SW중심대학 SW특공대 겨울방학 해외교육 이수
 - 2019-06-27 ~ 2019-08-14  IITP - Purdue Summer Program 2019 이수
 - 2020  The Fourth IEEE International Conference on Robotics Computing(IRC)에 Stealth UAV through Coandă Effect 공동저자 논문 투고
-
-### **✅Fork 관심 저장소 포크**
-
----
-
-### Visual Studio Code
-
-- [https://github.com/Kongji82/vscode](https://github.com/Kongji82/vscode)
-- 비주얼 스튜디오 코드는 Microsoft에서 개발한 텍스트 에디터로 개인적으로 가장 많이 사용하고 있는 개발 툴입니다. 가장 친숙한 오픈소스 프로그램이기에 선택했습니다.
-
-### Express
-- [https://github.com/Kongji82/express](https://github.com/Kongji82/express)
-- Express는 Node.js 웹 애플리케이션 프레임워크로 쉽게 서버를 구축할 수 있는 오픈소스입니다. 백엔드 개발자를 목표로 공부하고 있기에 잘 사용하고 있는 오픈소스인 Express를 선택했습니다.
