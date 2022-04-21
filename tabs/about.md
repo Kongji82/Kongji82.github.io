@@ -43,17 +43,21 @@ img: ":kong.jpg"
 
 ## 👋안녕하세요!
 ---
+![profile_pic](https://user-images.githubusercontent.com/47727212/163676652-0be89085-9b68-4c23-80ac-3fcc812b8422.jpg)   
+   
+### 🧑**Introduce**
+---
 안녕하세요!   
 제주대학교 컴퓨터공학전공 18학번 공지혁입니다.   
 저는 백엔드 분야에 관심을 가지고 있고 '멋진'개발자가 되는것을 목표로 공부하고 있습니다.
-### **🧑Profile**
+### 🗒️**Profile**
 
 ---
 
 - 이름 : 공지혁
 - 생년월일 : 1999.11.23
 - 학력 : 제주대학교 소프트웨어학부 컴퓨터공학전공
-- 관심분야 : BackEnd Develop
+- 관심분야 : Backend Develop
 
 ### **👥Contact 연락**
 
@@ -71,7 +75,6 @@ img: ":kong.jpg"
     - QR코드를 이용한 제주 카페 와이파이 자동 로그인
     - 2021년 Project-Lab 수업을 통해 와이파이 로그인이 가능한 QR코드 프로그램을 제주 카페에 홍보, 그리고 모인 접속 기록을 통해 검색 카페와 비슷한 카페, 비슷하지 않는 카페를 추천해주는 웹 페이지를 개발했습니다.
     - chart.js를 통해 데이터를 시각화하고 네이버 블로그 api를 통해 웹 페이지 블로그 연동
-    
 - [Stealth UAV through Coanda Effect](https://arxiv.org/abs/2005.14629)
     - 코안다 효과를 이용한 스텔스 드론 연구
     - IITP - Purdue Summer Program을 통해서 연구를 진행했고, The Fourth IEEE International Conference on Robotics Computing(IRC)에 논문을 투고했습니다.
