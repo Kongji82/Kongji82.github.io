@@ -76,7 +76,7 @@ img: ":kong.jpg"
     - QR코드를 이용한 제주 카페 와이파이 자동 로그인
     - 2021년 Project-Lab 수업을 통해 와이파이 로그인이 가능한 QR코드 프로그램을 제주 카페에 홍보, 그리고 모인 접속 기록을 통해 검색 카페와 비슷한 카페, 비슷하지 않는 카페를 추천해주는 웹 페이지를 개발했습니다.
     - chart.js를 통해 데이터를 시각화하고 네이버 블로그 api를 통해 웹 페이지 블로그 연동
-#
+
 - [Stealth UAV through Coanda Effect](https://arxiv.org/abs/2005.14629)
     - 코안다 효과를 이용한 스텔스 드론 연구
     - IITP - Purdue Summer Program을 통해서 연구를 진행했고, The Fourth IEEE International Conference on Robotics Computing(IRC)에 논문을 투고했습니다.
