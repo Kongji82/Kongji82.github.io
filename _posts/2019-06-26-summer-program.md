@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_What_is_this
-title: "Solved.ac 골드 달성"
+title: "IITP-Purdue Summer Program"
 
 # post specific
 # if not specified, .name will be used from _data/owner.yml
@@ -16,7 +16,7 @@ img: ""
 #comments_disable: true
 
 # publish date
-date: 2021-08-30 10:04:30 +0900
+date: 2019-08-30 10:04:30 +0900
 
 # seo
 # if not specified, date will be used.
@@ -37,14 +37,8 @@ date: 2021-08-30 10:04:30 +0900
 #published: false
 ---
 
-🗓️기간: 2021. 08. 30
+🗓️기간: 2019. 06. 26 ~ 2019. 08. 15
 
 ---
 
-저는 코딩에 가장 처음으로 재미를 느꼈을 때가 알고리즘을 풀었을 때 였습니다.
 
-처음에는 이게 알고리즘인지도 모르고 눈앞에 보이는 문제를 풀기 위해서 계속 집중하고 틀리면서 많은 시행착오를 겪었습니다. 그러한 경험이 있었기에 지금까지 꾸준히 공부하고 노력을 들이는 거 같습니다.
-
-백준 사이트를 이용해서 알고리즘을 푸는데 Solved.ac의 티어를 통해서 유저별 수준을 확인할 수 있어서 자주 사용합니다.
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongji4092)](https://solved.ac/kongji4092/)
