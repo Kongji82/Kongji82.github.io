@@ -43,14 +43,14 @@ img: ":kong.jpg"
 
 ## 👋안녕하세요!
 ---
-![profile_pic](https://user-images.githubusercontent.com/47727212/163676652-0be89085-9b68-4c23-80ac-3fcc812b8422.jpg)   
-   
-### 🧑**Introduce**
+![profile_pic](https://user-images.githubusercontent.com/47727212/163676652-0be89085-9b68-4c23-80ac-3fcc812b8422.jpg)
+
+## 🧑**Introduce**
 ---
-안녕하세요!   
-제주대학교 컴퓨터공학전공 18학번 공지혁입니다.   
+안녕하세요!
+제주대학교 컴퓨터공학전공 18학번 공지혁입니다.
 저는 백엔드 분야에 관심을 가지고 있고 '멋진' 개발자가 되는 것을 목표로 공부하고 있습니다.
-### 🗒️**Profile**
+## 🗒️**Profile**
 
 ---
 
@@ -60,7 +60,7 @@ img: ":kong.jpg"
 - MBTI : ISFP-T
 - 관심분야 : Backend Develop
 
-### **👥Contact 연락**
+## **👥Contact 연락**
 
 ---
 
@@ -68,7 +68,9 @@ img: ":kong.jpg"
 
 ✉️ **E-Mail :** kongji4092@gmail.com
 
-### **👨🏻‍💻Projects 프로젝트**
+📝 **blog :** https://kongji82.github.io/basic-web-programming-blog/
+
+## **👨🏻‍💻Projects 프로젝트**
 
 ---
 
@@ -82,33 +84,30 @@ img: ":kong.jpg"
     - IITP - Purdue Summer Program을 통해서 연구를 진행했고, The Fourth IEEE International Conference on Robotics Computing(IRC)에 논문을 투고했습니다.
     - 자료조사 및 데이터 수집 역할을 하였습니다.
 
-### **✨Language And Tools 기술스택**
+## **✨Language And Tools 기술스택**
 
 ---
+### Backend
+- Spring boot
+- Django
+- Java, Python
+- Jpa
+- MySQL
 
-- Python
-- Numpy
-- Pandas
-- Express.js
-- Git
+### DevOps
+- AWS - ec2, RDS
 
-### **⌛Experiences 경험**
+### Tools & Collaboration
+- IntelliJ, Pycharm, Visual Studio Code
+- Git, Gitlab, Github, Sourcetree
+- Slack, Trello
+
+
+## **⌛Experiences 경험**
 
 ---
 
 - 2019-02-07 ~ 2019-02-27 2018 SW중심대학 SW특공대 겨울방학 해외교육 이수
 - 2019-06-27 ~ 2019-08-14  IITP - Purdue Summer Program 2019 이수
-- 2020  The Fourth IEEE International Conference on Robotics Computing(IRC)에 Stealth UAV through Coandă Effect 공동저자 논문 투고
-
-### **✅Fork 관심 저장소 포크**
-
----
-
-### Visual Studio Code
-
-- [https://github.com/Kongji82/vscode](https://github.com/Kongji82/vscode)
-- 비주얼 스튜디오 코드는 Microsoft에서 개발한 텍스트 에디터로 개인적으로 가장 많이 사용하고 있는 개발 툴입니다. 가장 친숙한 오픈소스 프로그램이기에 선택했습니다.
-
-### Express
-- [https://github.com/Kongji82/express](https://github.com/Kongji82/express)
-- Express는 Node.js 웹 애플리케이션 프레임워크로 쉽게 서버를 구축할 수 있는 오픈소스입니다. 백엔드 개발자를 목표로 공부하고 있기에 잘 사용하고 있는 오픈소스인 Express를 선택했습니다.
+- 2020 The Fourth IEEE International Conference on Robotics Computing(IRC)에 Stealth UAV through Coandă Effect 공동저자 논문 투고
+- 2022 K-해커톤 대상(과학기술정보통신부 장관상)
