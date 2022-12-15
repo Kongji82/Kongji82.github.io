@@ -68,7 +68,7 @@ img: ":kong.jpg"
 
 ✉️ **E-Mail :** kongji4092@gmail.com
 
-📝 **blog :** https://kongji82.github.io/basic-web-programming-blog/
+📝 **blog :** [https://kongji82.github.io/basic-web-programming-blog/](https://kongji82.github.io/basic-web-programming-blog/)
 
 ## **👨🏻‍💻Projects 프로젝트**
 
